@@ -1,0 +1,47 @@
+#usersArr {
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+
+#expenseElem {
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+
+#income--head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#income--head > h3 {
+    margin-bottom: 0px;
+    margin-right: 15px;
+}
+
+#expense--head {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#expense--head> h3 {
+    margin-bottom: 0px;
+    margin-right: 15px;
+}
+
+#disposableIncome {
+    margin-left: 15px;
+}
+
+#disposableSaveIncome {
+    margin-left: 15px;
+}
